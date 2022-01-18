@@ -1,0 +1,54 @@
+
+.Boxes{
+    border: 1px solid rgb(240, 238, 237);
+    width: 600px;
+    height: 600px;
+    border-radius: 2px;
+}
+.login{ 
+    margin-top: 10%;
+    font-weight: bolder;
+    color: rgb(116, 18, 196);
+}
+
+.login_card{
+    background-color: bisque;
+    text-align: center;
+    border-radius: 4px;
+    width: 470px;
+    margin-left: 55px;
+}
+.lable{
+    margin-left: 50px;
+    
+}
+
+.input{
+    margin-top: 5px;
+    border:none;
+    margin-left: 50px;
+    background-color: aliceblue;
+    width: 80%
+}
+.ax{
+    margin-left: 40px;
+    width: 80%;
+}
+.imge{
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    border-radius: 8px;
+    margin-top: 150px;
+}
+
+@media (max-width : 600px){
+    .login_card{
+        margin-left: 5px;
+        background-color: rgb(164, 236, 170);
+    }
+    .imge{
+        width: 100%;
+        margin-top: -5px;
+    }
+}

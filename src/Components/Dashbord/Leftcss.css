@@ -1,0 +1,7 @@
+.btn{
+    width: 180px;
+}
+
+.btn:hover{
+    background-color: lightcoral;
+}
