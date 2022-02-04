@@ -34,6 +34,7 @@ const Left = () =>{
     <li><Link class="dropdown-item" style={{ textDecoration:'none'}} to="/Post">Post</Link></li>
     <li><Link class="dropdown-item" style={{ textDecoration:'none'}} to="/Delete">Delete</Link></li>
     <li><Link class="dropdown-item" style={{ textDecoration:'none'}} to="/Covid">Covid</Link></li>
+    <li><Link class="dropdown-item" style={{ textDecoration:'none'}} to="/Card">Card</Link></li>
   </ul>
 </div>
                     </div>

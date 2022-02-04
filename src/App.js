@@ -8,6 +8,7 @@ import Get from './Components/Get';
 import Post from './Components/Post';
 import Delete from './Components/Delete';
 import Covid from './Components/Covid';
+import Card from './Components/Card';
 function App() {
   return (
     <>   
@@ -16,6 +17,7 @@ function App() {
   <Route exact path="/" element={<Login/>}></Route>
   <Route exact path='/Login' element={<Login/>}></Route>
     <Route exact path='/Dash' element={<Dash/>}></Route>
+    <Route exact path='/Card' element={<Card/>}></Route>
     <Route exact path='/Get' element={<Get/>}></Route>
     <Route exact path='/Post' element={<Post/>}></Route>
     <Route exact path='/Delete' element={<Delete/>}></Route>
