@@ -6,8 +6,8 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Get from './Components/Get';
 import Post from './Components/Post';
-import Delete from './Components/Delete';
-import Covid from './Components/Covid';
+import Delete from './Components/Decvbcvbcvblete';
+import Covid from './Components/Cocvbcvbvid';
 import Card from './Components/Card';
 function App() {
   return (
